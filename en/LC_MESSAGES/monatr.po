@@ -1,0 +1,711 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: monatr\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-22 20:43+0900\n"
+"PO-Revision-Date: 2014-02-22 20:43+0900\n"
+"Last-Translator: Mona Tore <monatr.jp@gmail.com>\n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "入金"
+msgstr "Deposit"
+
+msgid ""
+"暗号通貨をアカウントに入金するためには、以下のアドレス宛に入金希望額をお支払"
+"いください。"
+msgstr ""
+"To deposit your cryptocurrency in your account, pay the amount you want to "
+"deposit to the address shown below."
+
+#, php-format
+msgid ""
+"入金は%d回の検証(confirmation)が確認された後に執行されます。反映されるまで一"
+"時間以上かかる場合がありますので、しばらくお待ちください。"
+msgstr ""
+"Your deposit will be credited after %d confirmations. It will take more than "
+"an hour. Please wait patiently."
+
+msgid ""
+"アドレスを間違えてしまった場合には入金操作を取り消すことは不可能ですので、ご"
+"注意ください。"
+msgstr ""
+"Be carefull when you deposit your money because it is impossible to cancel "
+"your payment if you send it to a wrong address."
+
+msgid "入金先アドレス一覧"
+msgstr "Deposit address list"
+
+msgid "通貨名"
+msgstr "Currency name"
+
+msgid "アドレス"
+msgstr "Address"
+
+msgid "アドレスの取得に失敗しました。"
+msgstr "Failed to fetch an address."
+
+msgid "注文をキャンセルしました"
+msgstr "Your order is canceled"
+
+#, php-format
+msgid "注文番号 %d のキャンセル要求を受け付けました。"
+msgstr "Your cancel request for order %d has been successfully accepted."
+
+msgid "プロフィールページへ戻る"
+msgstr "Return to the profile page."
+
+msgid "注文情報"
+msgstr "Order information"
+
+#, php-format
+msgid "注文番号%d番の情報です。"
+msgstr "The information for order ID %d is shown below."
+
+msgid "注文番号"
+msgstr "Order ID"
+
+msgid "売数量"
+msgstr "Amount to sell"
+
+msgid "残"
+msgstr "Left"
+
+msgid "買数量"
+msgstr "Amount to buy"
+
+msgid "受付日時"
+msgstr "Reception date and time"
+
+msgid "状態"
+msgstr "Status"
+
+msgid "注文取消"
+msgstr "Cancel your order"
+
+msgid "キャンセルしました"
+msgstr "Canceled"
+
+#, php-format
+msgid "リクエスト番号 %d のキャンセル要求を受け付けました。"
+msgstr "Your cancel request %d has been successfully acceped."
+
+msgid "リクエスト詳細"
+msgstr "Request detail"
+
+msgid "リクエストID"
+msgstr "Request ID"
+
+#, php-format
+msgid "<p>%f%s の出金リクエスト。</p>\n"
+msgstr "<p>Withdrawal request of %f%s</p>\n"
+
+msgid "日時"
+msgstr "Date and time"
+
+msgid "リクエストをキャンセル"
+msgstr "Cancel your request"
+
+msgid "ログイン"
+msgstr "Login"
+
+msgid ""
+"このサイトでは <a href=\"http://openid.yahoo.co.jp/\">OpenID</a> を用いてユー"
+"ザ認証を行っております。\n"
+"「OpenID って何？」って方は <a href=\"http://openid.yahoo.co.jp/\">Yahooの解"
+"説ページ</a>をお読みください。"
+msgstr ""
+"We use <a href=\"http://openid.yahoo.co.jp/\">OpenID</a> as an "
+"authentication method in this service. If you do not know what OpenID is, "
+"please visit <a href=\"http://openid.yahoo.co.jp/\">Yahoo's explanetory "
+"page</a>."
+
+msgid ""
+"下記のいずれかのアカウントをお持ちであれば、すぐにログインすることができま"
+"す。"
+msgstr "You can login now if you have an account listed below."
+
+#, php-format
+msgid "%sでログイン"
+msgstr "Login with %s"
+
+msgid "上記以外のOpenIDでログインする"
+msgstr "Login using an OpenID other than listed above"
+
+msgid "ログインがキャンセルされました。"
+msgstr "Login canceled."
+
+msgid "ログイン成功"
+msgstr "Login successfully"
+
+msgid "ログインに成功しました。"
+msgstr "Login successfully."
+
+msgid "リダイレクトしています……。"
+msgstr "Redirecting..."
+
+msgid "ご登録ありがとうございます。"
+msgstr "Thank you for regiteration."
+
+msgid ":("
+msgstr ":("
+
+msgid "ログインできませんでした。"
+msgstr "Unable to login."
+
+msgid "記事名は？"
+msgstr "What is the article name?"
+
+msgid "記事が指定されていません。"
+msgstr "Article not specified."
+
+msgid "記事はどこ？"
+msgstr "Where is my article?"
+
+msgid "指定された記事はみつかりませんでした。"
+msgstr "The article you requested does not found."
+
+msgid "この注文に対する取引履歴"
+msgstr "Transaction history for this order"
+
+msgid "取引履歴"
+msgstr "Trading history"
+
+msgid "価格"
+msgstr "Price"
+
+msgid "詳細"
+msgstr "Details"
+
+msgid "アクセス拒否"
+msgstr "Access denied"
+
+msgid "エラー。"
+msgstr "Error."
+
+msgid "プロフィール"
+msgstr "Profile"
+
+msgid ""
+"ここでは、あなたのユーザIDや取引履歴、入出金履歴等を確認することができます。"
+msgstr ""
+"You can check your user ID, transaction details or deposit&withdrawal "
+"history here."
+
+msgid "各種ID"
+msgstr "Your IDs"
+
+msgid ""
+"あなたのユーザIDおよびOpenID識別子です。ログインできなくなった場合などのため"
+"に、<span style=\"color:red;\">必ずメモをとって</span>おきましょう。"
+msgstr ""
+"Your user ID and OpenID identifier are listed below. <span style=\"color:red;"
+"\">Remember to memorize</span> these information in case you are in trouble."
+
+msgid "ID一覧"
+msgstr "ID list"
+
+msgid "ユーザID"
+msgstr "User ID"
+
+msgid "OpenID識別子"
+msgstr "OpenID identifier"
+
+msgid "口座残高"
+msgstr "Account balance"
+
+msgid ""
+"あなたのアカウント内の残高一覧を表しています。入出金の手続きをされてから反映"
+"に時間がかかる場合がありますので、ご注意ください。"
+msgstr ""
+"Your account balances are shown below. Please note that it may take a long "
+"time before your deposits or withdrawals are credited."
+
+msgid ""
+"なお、注文を出している場合には、その分の資金を差し引いた額が表示されます。"
+msgstr ""
+"If you have open orders, the amount required for your orders will be "
+"subtracted from your balance."
+
+msgid "残高"
+msgstr "Balance"
+
+msgid "検証待ち"
+msgstr "Waiting confirmations"
+
+msgid "処理中"
+msgstr "Processing"
+
+msgid "注文中"
+msgstr "On order"
+
+msgid "注文一覧"
+msgstr "Order list"
+
+msgid "いままでに受け付けた注文の一覧です。"
+msgstr "The list of orders we have accepted."
+
+msgid "実行中の注文を取り消す場合には「詳細」をクリックしてください。"
+msgstr "To cancel your open order, please click \"details\"."
+
+msgid "表示／非表示"
+msgstr "Show/Hide"
+
+msgid "ステータス"
+msgstr "Status"
+
+msgid "出されている注文はありません。"
+msgstr "You have no open orders."
+
+msgid "リクエスト"
+msgstr "Requests"
+
+msgid "入出金リクエストの一覧です。"
+msgstr "Your deposit or withdrawal requrests are listed below."
+
+msgid "種別"
+msgstr "Type"
+
+msgid "金額"
+msgstr "Amount"
+
+msgid "損益"
+msgstr "Profit or loss"
+
+msgid "あなたのトレードによる収支です。"
+msgstr "Yor trading performance."
+
+msgid "評価損益"
+msgstr "Appraisal profit or loss"
+
+msgid "総計"
+msgstr "Total"
+
+#, php-format
+msgid "直近%d日"
+msgstr "Last %d days"
+
+msgid "全期間"
+msgstr "Entire period"
+
+msgid "ページが見つかりません"
+msgstr "Page not found"
+
+msgid "お探しのページは見つかりませんでした。"
+msgstr "The page you requested does not found."
+
+msgid "無効な通貨ペア"
+msgstr "Invalid currency pair."
+
+msgid "通貨ペアの識別に失敗しました"
+msgstr "Failed to identify the currency pair."
+
+msgid "注文エラー"
+msgstr "Order error"
+
+#, php-format
+msgid "現在の売値（Bid）の %f 倍よりも安い価格での売り注文はできません。"
+msgstr ""
+"You cannot place a sell order which is cheaper than %f times of the current "
+"best bid price."
+
+#, php-format
+msgid "現在の買値（Ask）の %f 倍よりも高い価格での買い注文はできません。"
+msgstr ""
+"You cannot place a buy order which is more expensive than %f times of the "
+"current best ask price."
+
+msgid "注文を受け付けました"
+msgstr "Your order successfully accepted."
+
+msgid "受け付けた注文の内容は以下のとおりです。"
+msgstr "The details of your order just accepted is shown below."
+
+msgid "注文内容"
+msgstr "Order detail"
+
+msgid "売"
+msgstr "Sell"
+
+msgid "買"
+msgstr "Buy"
+
+msgid "デーモンにより拒否されました"
+msgstr "Denied by the daemon."
+
+msgid "入力されたアドレスは無効です。"
+msgstr "You typed wrong address."
+
+msgid "無効な通貨"
+msgstr "Invalid currrency"
+
+msgid "指定された通貨は存在しないため、引き出しに失敗しました。"
+msgstr "Failed to withdraw since the currency you requested does not exist."
+
+#, php-format
+msgid "%s の出金"
+msgstr "Withdraw %s"
+
+#, php-format
+msgid ""
+"%s %s の出金要求を受け付けました。<a href=\"/profile\">プロフィール</a>にて詳"
+"細をご確認ください。"
+msgstr ""
+"We accepted the withdrawal request for %s %s. See <a href=\"/profile"
+"\">Profile</a> for details."
+
+msgid "出金"
+msgstr "Withdraw"
+
+msgid "アカウントから希望のアドレス宛に口座残高を出金します。"
+msgstr "WIthdraw your account balance to an address you wish to send to."
+
+msgid ""
+"なお、出金の際には所定のトランザクション手数料をいただいておりますのでご注意"
+"ください。"
+msgstr "Please note that we require a transaction fee for withdrawal."
+
+msgid "残高一覧"
+msgstr "Account balance list"
+
+msgid "最低出金額"
+msgstr "Minimum amount of withdrawal"
+
+msgid "出金手数料"
+msgstr "Fee for withdraw"
+
+msgid "出金内容"
+msgstr "Withdrawal details"
+
+msgid "実際の出金額"
+msgstr "Actual withdrawal amount"
+
+msgid "もなとれ - 暗号通貨交換サイト（アルファ版）"
+msgstr "Mona-tore - cryptocurrency trading service (alpha)"
+
+msgid "暗号通貨交換サイト「もなとれ」＠試験運用中（アルファ版）"
+msgstr "Cryptocurrency trading service \"mona-tore\" @ testing phase (alpha)"
+
+msgid "開発用サーバで動作中！"
+msgstr "開発用サーバで動作中！"
+
+msgid "ヘルプ"
+msgstr "Help"
+
+msgid "リンク"
+msgstr "Link"
+
+msgid "未ログイン"
+msgstr "Not logged in"
+
+msgid "ログアウト"
+msgstr "Logout"
+
+msgid "ログイン<span class=\"small\">または</span>登録"
+msgstr "Login <span class=\"small\">or</span> Register"
+
+msgid ""
+"モナーコインをAmazonギフト券へと交換するサービス「<a href=\"http://azn."
+"monatr.jp/\">もなぞん。</a>」をリリースしました。"
+msgstr ""
+"We have released the trading service \"<a href=\"http://azn.monatr.jp/\">もな"
+"ぞん。</a>\". You can buy Amazon gift code for Monacoin."
+
+msgid ""
+"現在試験運用中です。不具合等により残高消失等があったとしても補償しかねますの"
+"で、<span style=\"color:red;\">ご利用は自己責任</span>にてお願いいたします。"
+msgstr ""
+"This site is currently under the testing phase. We cannot guarantee if you "
+"lost your balances due to a software bug. <span style=\"color:red;\">You "
+"should use at your own risk</span>."
+
+msgid "#もなとれ"
+msgstr "#monatore"
+
+msgid ""
+"ハッシュタグ「#もなとれ」つきでのツイートが表示されます。モナーコインやビット"
+"コインの話題、もなとれ自体の話題などを投稿してみましょう。"
+msgstr ""
+"Tweets with hash tag \"#もなとれ\" will be shown below. Post a tweet about "
+"monacoin, bitcoin or mona-tore itself."
+
+msgid ""
+"\n"
+"<a class=\"twitter-timeline\" href=\"https://twitter.com/search?q="
+"%23%E3%82%82%E3%81%AA%E3%81%A8%E3%82%8C\" data-widget-id="
+"\"422257281271463936\">Twitter: #もなとれ</a>\n"
+"<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/."
+"test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement"
+"(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode."
+"insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+msgstr ""
+"\n"
+"<a class=\"twitter-timeline\"  href=\"https://twitter.com/search?q="
+"%23monatore\"  data-widget-id=\"436763918979969024\">Tweets about #monatore</"
+"a>\n"
+"<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/."
+"test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement"
+"(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode."
+"insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+
+msgid "開発・運営情報"
+msgstr "Development and operating information"
+
+msgid ""
+"「もなとれ」の開発および運営情報をお知らせするアカウント <a href=\"https://"
+"twitter.com/monatr_jp\">@monatr_jp</a> のツイートを表示しています。不具合や改"
+"善点、ご要望等がありましたら、ぜひこちらのアカウントまでご一報を。"
+msgstr ""
+"Tweets from <a href=\"https://twitter.com/monatr_jp\">@monatr_jp</a>, which "
+"is a information source about \"mona-tore\"'s development and operations, is "
+"shown below.If you found bugs, improvement suggestions or some requests, "
+"please inform to this account."
+
+msgid "寄付"
+msgstr "Donation"
+
+msgid "リンク集"
+msgstr "Link collection"
+
+msgid "モナーコイン関連のリンク集です。"
+msgstr "Link collection about Monacoin."
+
+msgid "公式"
+msgstr "Official sites"
+
+msgid "モナーコインの公式サイト（日本語）"
+msgstr "Monacoin official site (in Japanese)"
+
+msgid "モナーコインの公式サイト（英語）"
+msgstr "Monacoin official site(in English)"
+
+msgid "交換所"
+msgstr "Exchanges"
+
+msgid "「もなとれ」以外の交換サイトです。"
+msgstr "Trading web sites."
+
+msgid ""
+"モナーコインを含む、比較的新しい暗号通貨（altcoin）を主に取り扱っている交換所"
+"です。"
+msgstr "An exchange which mainly targeting fresh altcoins including Monacoin."
+
+msgid ""
+"渋谷にある日本最大のビットコイン交換所です。ビットコインと日本円を交換するこ"
+"とができます。"
+msgstr ""
+"A largest Bitcoin exchange in Japan, which is located in Shibuya. You can "
+"exchange Bitcoin with Japanese Yen."
+
+msgid ""
+"ビットコイン、ライトコイン、ネームコインなどの多くの暗号通貨と、米ドル、ユー"
+"ロ、ロシアルーブルなどとの交換が行える、ロシアの大手交換所です。 MetaTrader "
+"4 にも対応しているため、本格的なトレードを行いたい方にはおすすめかもしれませ"
+"ん。"
+msgstr ""
+"You can trade many cryptocurrencies including Bitcoin, Litecoin or Namecoin "
+"and USD, EUR, RUR in this exchange. This exchange is located in Russia. You "
+"can also use MetaTrader 4 for trading, so it is favorable if you want to "
+"trade more intensely."
+
+msgid ""
+"アメリカに位置する取引所で、非常に多くの種類の暗号通貨の取引に対応しており、"
+"魅力的です。"
+msgstr "An exchange located in USA. Many cryptocurrency markets are available."
+
+msgid "FAQ（よくある質問）"
+msgstr "FAQ (Frequently Asked Questions)"
+
+msgid "残高が消えたんだけど？"
+msgstr "My balance disappeared :("
+
+msgid ""
+"実行中の注文がある場合には、その注文の売数量分だけ残高から差し引かれます。も"
+"し注文が出したままになっている場合には、プロフィールページから注文をキャンセ"
+"ルした上でもう一度お試しください。"
+msgstr ""
+"If you have open orders, the amount to sell will be subtracted from your "
+"balance. If you have open orders, please try to cancel your order from "
+"profile page."
+
+msgid "このページでは「もなとれ」の提供している API の説明を行っております。"
+msgstr ""
+"In this page, we describe the APIs which \"mona-tore\" provides currently."
+
+msgid ""
+"「パブリックAPI」は主に情報取得用のものであり、認証を必要とせずにご利用いただ"
+"けるものです。「プライベートAPI」は個人の残高情報やトレード履歴の取得、および"
+"トレードを行うためのものであり、ご利用頂くためには認証をしていただく必要のあ"
+"るものです。"
+msgstr ""
+"\"Public APIs\" are intended to be used for fetching information. They are "
+"available without authentication. On the other hand, \"private APIs\" are "
+"mainly intended for collecting personal information such as balance or "
+"trading history, and for trading. Authentication is required when you use "
+"private APIs."
+
+msgid ""
+"API の呼び出し結果は基本的に JSON 形式で出力されますが、callback パラメータを"
+"指定することで JSONP 形式での出力を行うこともできます。"
+msgstr ""
+"Results are basically returned in the JSON form. You can pass 'callback' "
+"parameter to get results in the JSONP form."
+
+msgid ""
+"なお、ご利用の際には極力キャッシングを行うことでアクセス数を減らすようにして"
+"ください。負荷軽減へのご協力をお願いいたします。"
+msgstr ""
+"Please try to eliminate the number of accesses by caching the results. Thank "
+"you for reducing the server load."
+
+msgid "サンプル"
+msgstr "Sample"
+
+msgid "パブリックAPI"
+msgstr "Public API"
+
+msgid "パブリック API は次の形で呼び出すことができます。"
+msgstr "You can call public APIs with the following format."
+
+msgid "メソッド"
+msgstr "Method"
+
+msgid ""
+"利用可能なメソッドとパラメータ、および取得結果のサンプルは以下のとおりです。"
+msgstr "Available methods, parameters and a sample output is shown below."
+
+msgid "このメソッドには利用可能なパラメータはありません。"
+msgstr "No parameters are available for this method."
+
+msgid "パラメータ一覧"
+msgstr "Parameter list"
+
+msgid "パラメータ"
+msgstr "Parameter"
+
+msgid "説明"
+msgstr "Description"
+
+msgid "一般的な情報を取得します。"
+msgstr "Fetch generic information."
+
+msgid "市場の情報を取得します。"
+msgstr "Fetch market information."
+
+msgid "情報を取得する市場を指定します。例：market=BTC_MONA"
+msgstr "Specify the market about which you want to know. ex) market=BTC_MONA"
+
+msgid "情報を収集する期間の開始時刻をエポック秒で指定します。"
+msgstr "Specify the begin time in epoch seconds."
+
+msgid "情報を収集する期間の終了時刻をエポック秒で指定します。"
+msgstr "Specify the end time in epoch seconds."
+
+msgid "市場の depth を取得します。"
+msgstr "Fetch market depth."
+
+msgid "プライベートAPI"
+msgstr "Private API"
+
+msgid "未実装。"
+msgstr "Not implemented yet."
+
+msgid "エラー：無効な通貨ペア。"
+msgstr "Error: invalid currency pair."
+
+msgid "取引価格一覧"
+msgstr "Price board"
+
+msgid "チャート"
+msgstr "Chart"
+
+msgid "新規注文"
+msgstr "Place a new order"
+
+msgid "注文実行"
+msgstr "Place order"
+
+msgid "注文を行うには<a href=\"/login\">ログイン</a>してください。"
+msgstr "Please <a href=\"/login\">login</a> before trading."
+
+#, php-format
+msgid "注文は %s で行ってください。"
+msgstr "Use %s alternatively."
+
+#, php-format
+msgid "%s注文一覧"
+msgstr "%s orders"
+
+msgid "売/買"
+msgstr "Sell/Buy"
+
+msgid "数量"
+msgstr "Amount"
+
+msgid "モナーコイン"
+msgstr "Monacoin"
+
+msgid "ビットコイン"
+msgstr "Bitcoin"
+
+msgid "ライトコイン"
+msgstr "Litecoin"
+
+msgid "プライムコイン"
+msgstr "Primecoin"
+
+msgid "数字をー。入れてー。"
+msgstr "Please enter a number :("
+
+msgid "入力された値は数値ではありません。"
+msgstr "Input value is not a number."
+
+msgid "やり直してください。。。"
+msgstr "Please retry..."
+
+#, php-format
+msgid "注文数量が少なすぎます。最小の取引数量は%sです。"
+msgstr "Insufficient amount. The minimum amount for trading is %s."
+
+msgid "おかねはどこに？"
+msgstr "Where is your money?"
+
+#, php-format
+msgid "%sの残高が足りません。"
+msgstr "Insufficient %s balance."
+
+msgid "実行中"
+msgstr "Open"
+
+msgid "キャンセル"
+msgstr "Canceled"
+
+msgid "完了"
+msgstr "Completed"
+
+msgid "そんなリクエストタイプはないのです。。。"
+msgstr "Oops, no such request type..."
+
+msgid "This request is wrong..."
+msgstr "This request is wrong..."
+
+msgid "検証中"
+msgstr "Verifying"
+
+msgid "無視"
+msgstr "Ignored"
+
+msgid "拒否"
+msgstr "Denied"
+
+#~ msgid "登録"
+#~ msgstr "Register"
