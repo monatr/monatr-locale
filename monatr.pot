@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-02 12:20+0900\n"
+"POT-Creation-Date: 2014-03-02 17:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -383,6 +383,9 @@ msgstr ""
 msgid "利用規約"
 msgstr ""
 
+msgid "お問い合わせ"
+msgstr ""
+
 msgid "リンク"
 msgstr ""
 
@@ -405,8 +408,7 @@ msgstr ""
 
 msgid ""
 "<a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会＠東京</"
-"a> が開催されます。当サイトの管理人も講演をさせて頂く予定です。ふるってご参加"
-"ください。"
+"a>"
 msgstr ""
 
 msgid ""
@@ -538,6 +540,24 @@ msgstr ""
 msgid ""
 "アメリカに位置する取引所で、非常に多くの種類の暗号通貨の取引に対応しており、"
 "魅力的です。"
+msgstr ""
+
+msgid ""
+"もなとれをご利用の上でサポートが必要な場合には、以下の連絡先のいずれかにご連"
+"絡をお願いいたします。"
+msgstr ""
+
+msgid ""
+"なお、返信まで少々お時間をいただくことがありますが、何卒ご了承ください。"
+msgstr ""
+
+msgid "電子メール"
+msgstr ""
+
+msgid "\"[MONA]\" を \"@\" に置き換えてください"
+msgstr ""
+
+msgid "Twitter"
 msgstr ""
 
 msgid "FAQ（よくある質問）"
@@ -792,6 +812,9 @@ msgid "取引価格一覧"
 msgstr ""
 
 msgid "チャート"
+msgstr ""
+
+msgid "出来高"
 msgstr ""
 
 msgid "新規注文"

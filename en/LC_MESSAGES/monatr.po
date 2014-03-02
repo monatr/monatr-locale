@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: monatr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-02 12:20+0900\n"
-"PO-Revision-Date: 2014-03-02 12:22+0900\n"
+"POT-Creation-Date: 2014-03-02 17:44+0900\n"
+"PO-Revision-Date: 2014-03-02 17:46+0900\n"
 "Last-Translator: Mona Tore <monatr.jp@gmail.com>\n"
 "Language-Team: \n"
 "Language: en\n"
@@ -408,6 +408,9 @@ msgstr "Fee"
 msgid "利用規約"
 msgstr "Terms of service"
 
+msgid "お問い合わせ"
+msgstr "Contact"
+
 msgid "リンク"
 msgstr "Link"
 
@@ -431,8 +434,7 @@ msgstr ""
 #, fuzzy
 msgid ""
 "<a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会＠東京</"
-"a> が開催されます。当サイトの管理人も講演をさせて頂く予定です。ふるってご参加"
-"ください。"
+"a>"
 msgstr ""
 "We are now planning to hold <a href=\"http://twipla.jp/"
 "events/82131\">Monacoin offline meeting@Tokyo</a>. I, the administrator of "
@@ -491,7 +493,7 @@ msgid "寄付"
 msgstr "Donate"
 
 msgid "2014年3月より取引手数料をいただきます"
-msgstr ""
+msgstr "We will charge trade fee from March 2014."
 
 msgid "「もなとれ」をご利用のみなさま"
 msgstr ""
@@ -591,6 +593,24 @@ msgid ""
 "魅力的です。"
 msgstr ""
 "An exchange located in the USA. Many cryptocurrency markets are available."
+
+msgid ""
+"もなとれをご利用の上でサポートが必要な場合には、以下の連絡先のいずれかにご連"
+"絡をお願いいたします。"
+msgstr ""
+
+msgid ""
+"なお、返信まで少々お時間をいただくことがありますが、何卒ご了承ください。"
+msgstr ""
+
+msgid "電子メール"
+msgstr "E-mail"
+
+msgid "\"[MONA]\" を \"@\" に置き換えてください"
+msgstr ""
+
+msgid "Twitter"
+msgstr "Twitter"
 
 msgid "FAQ（よくある質問）"
 msgstr "FAQ (Frequently Asked Questions)"
@@ -858,6 +878,9 @@ msgstr "Markets"
 
 msgid "チャート"
 msgstr "Chart"
+
+msgid "出来高"
+msgstr "Volume"
 
 msgid "新規注文"
 msgstr "Place a new order"
