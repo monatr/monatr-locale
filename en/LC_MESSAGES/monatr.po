@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: monatr\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-03-02 17:44+0900\n"
-"PO-Revision-Date: 2014-03-02 17:46+0900\n"
-"Last-Translator: Mona Tore <monatr.jp@gmail.com>\n"
+"PO-Revision-Date: 2014-03-05 07:24-0600\n"
+"Last-Translator: lae <sleepingkyoto@yahoo.co.jp>\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -20,6 +20,13 @@ msgstr ""
 
 msgid "入金"
 msgstr "Deposit"
+
+msgid ""
+"誤入金頻発中！送金先アドレスは頻繁に変更されますので、必ず毎回ご確認を！"
+msgstr ""
+"We've been getting many cases of accidental deposits. Deposit addresses will "
+"change frequently, so please make sure to check for your current deposit "
+"addresses before you send any funds!"
 
 msgid ""
 "暗号通貨をアカウントに入金するためには、以下のアドレス宛に入金希望額をお支払"
@@ -382,7 +389,7 @@ msgid "最低出金額"
 msgstr "Minimum Withdrawal"
 
 msgid "出金手数料"
-msgstr "Transaction Fee"
+msgstr "Withdrawal Fee"
 
 msgid "出金内容"
 msgstr "Withdrawal Details"
@@ -493,7 +500,7 @@ msgid "寄付"
 msgstr "Donate"
 
 msgid "2014年3月より取引手数料をいただきます"
-msgstr "We will charge trade fee from March 2014."
+msgstr "A trading fee will be implemented from March 2014 and onwards."
 
 msgid "「もなとれ」をご利用のみなさま"
 msgstr ""
@@ -527,7 +534,7 @@ msgid ""
 msgstr ""
 
 msgid "取引手数料"
-msgstr "Trade fee"
+msgstr "Trading fee"
 
 msgid ""
 "なお、Bitcoinの出金手数料につきましては、以下のように減額させていただきます。"
@@ -536,7 +543,7 @@ msgid ""
 msgstr ""
 
 msgid "Bitcoin出金手数料"
-msgstr "Bitcoin transaction fee"
+msgstr "Bitcoin withdrawal fee"
 
 msgid ""
 "本交換サイトがMonacoinの普及と発展の一助となるべく、より一層サービスの向上に"
@@ -598,16 +605,19 @@ msgid ""
 "もなとれをご利用の上でサポートが必要な場合には、以下の連絡先のいずれかにご連"
 "絡をお願いいたします。"
 msgstr ""
+"If you need assistance in using mona-tore, please contact me through one of "
+"the following venues."
 
 msgid ""
 "なお、返信まで少々お時間をいただくことがありますが、何卒ご了承ください。"
 msgstr ""
+"It may take some time for me to respond, so your patience is appreciated."
 
 msgid "電子メール"
 msgstr "E-mail"
 
 msgid "\"[MONA]\" を \"@\" に置き換えてください"
-msgstr ""
+msgstr "replace \"[MONA]\" with \"@\""
 
 msgid "Twitter"
 msgstr "Twitter"
@@ -639,7 +649,7 @@ msgid ""
 msgstr ""
 
 msgid "出金手数料一覧"
-msgstr "Transaction fee list"
+msgstr "List of Withdrawal Fees"
 
 msgid ""
 "なお、この処理手数料は出金額やトランザクションの内容により変化しますが、透明"
@@ -657,7 +667,7 @@ msgid ""
 msgstr ""
 
 msgid "手数料体系"
-msgstr "Fee schedule"
+msgstr "Fee Schedule"
 
 msgid "取引高（過去30日間）"
 msgstr "Trade volume (last 30 days)"
@@ -673,10 +683,10 @@ msgid ""
 msgstr ""
 
 msgid "最終改訂日"
-msgstr ""
+msgstr "Revised on"
 
 msgid "2014年3月1日"
-msgstr ""
+msgstr "March 1, 2014"
 
 msgid ""
 "本サイトの利用規約は日本語でのみ提供されます。英語およびその他の言語で表示さ"
