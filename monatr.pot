@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-02 17:44+0900\n"
+"POT-Creation-Date: 2014-03-21 14:36+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,10 +18,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "入金"
-msgstr ""
-
-msgid ""
-"誤入金頻発中！送金先アドレスは頻繁に変更されますので、必ず毎回ご確認を！"
 msgstr ""
 
 msgid ""
@@ -393,6 +389,9 @@ msgstr ""
 msgid "リンク"
 msgstr ""
 
+msgid "業績リスト"
+msgstr ""
+
 msgid "もなぞん。"
 msgstr ""
 
@@ -406,13 +405,13 @@ msgid "ログイン<span class=\"small\">または</span>登録"
 msgstr ""
 
 msgid ""
-"Faviconコンテストの優勝者を決定いたしました。結果は<a href=\"/article/"
-"news/2014030100\">こちら</a>へ"
+"モナーコインの採掘難易度の計算方法がブロック高 80,000 以降（2014/03/18 頃）よ"
+"り変更となります。これに伴い、クライアントのアップデートが必要となります。未"
+"了の方はただちに更新をお願いします。"
 msgstr ""
 
 msgid ""
-"<a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会＠東京</"
-"a>"
+"誤入金頻発中！送金先アドレスは頻繁に変更されますので、必ず毎回ご確認を！"
 msgstr ""
 
 msgid ""
@@ -735,6 +734,18 @@ msgid "その他、一般的に不正とみなされるような注文を行う�
 msgstr ""
 
 msgid "以上。"
+msgstr ""
+
+msgid "口頭発表"
+msgstr ""
+
+msgid ""
+"もなとれ, <span style=\"font-style:italic;\">暗号通貨ってなんだろう？</"
+"span>, <a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会"
+"＠東京 (2014)</a>."
+msgstr ""
+
+msgid "発表資料 (2014/03/18版)"
 msgstr ""
 
 msgid "このページでは「もなとれ」の提供している API の説明を行っております。"

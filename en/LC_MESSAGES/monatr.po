@@ -7,9 +7,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: monatr\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-02 17:44+0900\n"
-"PO-Revision-Date: 2014-03-05 07:24-0600\n"
-"Last-Translator: lae <sleepingkyoto@yahoo.co.jp>\n"
+"POT-Creation-Date: 2014-03-21 14:36+0900\n"
+"PO-Revision-Date: 2014-03-21 16:04+0900\n"
+"Last-Translator: Mona Tore <monatr.jp@gmail.com>\n"
 "Language-Team: \n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -20,13 +20,6 @@ msgstr ""
 
 msgid "入金"
 msgstr "Deposit"
-
-msgid ""
-"誤入金頻発中！送金先アドレスは頻繁に変更されますので、必ず毎回ご確認を！"
-msgstr ""
-"We've been getting many cases of accidental deposits. Deposit addresses will "
-"change frequently, so please make sure to check for your current deposit "
-"addresses before you send any funds!"
 
 msgid ""
 "暗号通貨をアカウントに入金するためには、以下のアドレス宛に入金希望額をお支払"
@@ -421,6 +414,9 @@ msgstr "Contact"
 msgid "リンク"
 msgstr "Link"
 
+msgid "業績リスト"
+msgstr "Publications"
+
 msgid "もなぞん。"
 msgstr "Mona-zon."
 
@@ -434,18 +430,17 @@ msgid "ログイン<span class=\"small\">または</span>登録"
 msgstr "Login <span class=\"small\">or</span> Register"
 
 msgid ""
-"Faviconコンテストの優勝者を決定いたしました。結果は<a href=\"/article/"
-"news/2014030100\">こちら</a>へ"
+"モナーコインの採掘難易度の計算方法がブロック高 80,000 以降（2014/03/18 頃）よ"
+"り変更となります。これに伴い、クライアントのアップデートが必要となります。未"
+"了の方はただちに更新をお願いします。"
 msgstr ""
 
-#, fuzzy
 msgid ""
-"<a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会＠東京</"
-"a>"
+"誤入金頻発中！送金先アドレスは頻繁に変更されますので、必ず毎回ご確認を！"
 msgstr ""
-"We are now planning to hold <a href=\"http://twipla.jp/"
-"events/82131\">Monacoin offline meeting@Tokyo</a>. I, the administrator of "
-"this site will give a lecture. We look forward to your active participation."
+"We've been getting many cases of accidental deposits. Deposit addresses will "
+"change frequently, so please make sure to check for your current deposit "
+"addresses before you send any funds!"
 
 msgid ""
 "現在試験運用中です。不具合等により残高消失等があったとしても補償しかねますの"
@@ -796,6 +791,22 @@ msgid "その他、一般的に不正とみなされるような注文を行う�
 msgstr ""
 
 msgid "以上。"
+msgstr ""
+
+msgid "口頭発表"
+msgstr "Oral presentation"
+
+#, fuzzy
+msgid ""
+"もなとれ, <span style=\"font-style:italic;\">暗号通貨ってなんだろう？</"
+"span>, <a href=\"http://off.gikopool.net/\">モナーコイン・ビットコイン勉強会"
+"＠東京 (2014)</a>."
+msgstr ""
+"We are now planning to hold <a href=\"http://twipla.jp/"
+"events/82131\">Monacoin offline meeting@Tokyo</a>. I, the administrator of "
+"this site will give a lecture. We look forward to your active participation."
+
+msgid "発表資料 (2014/03/18版)"
 msgstr ""
 
 msgid "このページでは「もなとれ」の提供している API の説明を行っております。"
